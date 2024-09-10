@@ -1,6 +1,8 @@
 # 🌟 Hey, I'm Aschalew!
 Welcome to my GitHub profile!
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=AschalewMathewosDamtew&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 👩‍💻 About Me:
 - Passionate about FinTech and AI. 
 - Startup Enthusiast.
